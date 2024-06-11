@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shengwei Peng</h1>
+<h1 align="center">Hi 👋, I'm Ken</h1>
 <h3 align="center">A dedicated AI enthusiast from Taiwan, currently pursuing a master's degree in Electrical Engineering at the National Taiwan University of Science and Technology (NTUST).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shengwei0516&label=Profile%20views&color=0e75b6&style=flat" alt="shengwei0516" /> </p>
