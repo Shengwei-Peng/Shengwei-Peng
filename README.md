@@ -1,26 +1,23 @@
-<img src="./imgs/wave.gif" width='40' align="left"/>
 <h1 align="left">
-    Hi, I'm Ken 
-    <div style="float: right;">
-        <img src="https://komarev.com/ghpvc/?username=shengwei0516&label=Profile%20views&color=0e75b6&style=flat" alt="shengwei0516" />
-    </div>
+    <img src="./imgs/wave.gif" width='40' align="left"/>
+    Hi, I'm Ken
+    <img src="https://komarev.com/ghpvc/?username=shengwei0516&label=Profile%20views&color=0e75b6&style=flat" alt="shengwei0516" align="right"/>
 </h1>
-
-<h3 align="center">
-    An Electrical Engineering Graduate Student at National Taiwan University of Science and Technology.
+<h3>
+    <img src="./imgs/background.gif" align="center"/>
 </h3>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=shengwei0516" alt="shengwei0516" />
-    </a> 
+    </a>
 </p>
 
 - 🔭 I’m currently working on **Event-based Vision.**
 
-- 🌱 I’m currently learning **Large Language Models (LLM) and Information Security .**
+- 🌱 I’m currently learning **Cybersecurity.**
 
-- 💬 Ask me about **PyTorch, TensorFlow and Keras.**
+- 💬 Ask me about **anything related to AI.**
 
 - 📫 How to reach me **m11207330@mail.ntust.edu.tw**
 
@@ -90,8 +87,10 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shengwei0516&show_icons=true&locale=en" alt="shengwei0516" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei0516&" alt="shengwei0516" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shengwei0516&show_icons=true&locale=en" alt="shengwei0516" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei0516&" alt="shengwei0516" height="170"/>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shengwei0516&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://raw.githubusercontent.com/Shengwei0516/Shengwei0516/output/github-contribution-grid-snake-dark.svg)
