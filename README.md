@@ -1,7 +1,7 @@
 <h1 align="left">
     <img src="./imgs/wave.gif" width='40' align="left"/>
     Hi, I'm Ken
-    <img src="https://komarev.com/ghpvc/?username=shengwei0516&label=Profile%20views&color=0e75b6&style=flat" alt="shengwei0516" align="right"/>
+    <img src="https://komarev.com/ghpvc/?username=Shengwei-Peng&label=Profile%20views&color=0e75b6&style=flat" alt="Shengwei-Peng" align="right"/>
 </h1>
 <h3>
     <img src="./imgs/background.gif" align="center"/>
@@ -9,7 +9,7 @@
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=shengwei0516" alt="shengwei0516" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Shengwei-Peng" alt="Shengwei-Peng" />
     </a>
 </p>
 
@@ -87,10 +87,10 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shengwei0516&show_icons=true&locale=en" alt="shengwei0516" height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei0516&" alt="shengwei0516" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shengwei-Peng&show_icons=true&locale=en&theme=dark" alt="Shengwei-Peng" height="170"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shengwei-Peng&theme=gotham" alt="GitHub Streak" height="170"/></a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shengwei0516&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shengwei-Peng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://raw.githubusercontent.com/Shengwei0516/Shengwei0516/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Shengwei-Peng/Shengwei-Peng/output/github-contribution-grid-snake-dark.svg)
